@@ -8,6 +8,8 @@ function App() {
       <h2>Azamat + Sevara = Love</h2>
       <h5>muhamadali + Maryam = Love</h5>
       <h6>Muhammadali + Brawlstarts = Love</h6>
+      <u>Lorem ipsum dolor sit.</u>
+      <i>Lorem ipsum dolor sit.</i>
     </>
   );
 }
