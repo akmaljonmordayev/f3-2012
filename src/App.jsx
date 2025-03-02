@@ -54,6 +54,12 @@ function App() {
         <option value="#">english</option>
       </select>
 
+      <ul>
+        <li>
+          <a href="#">azamat</a>
+        </li>
+      </ul>
+
     </>
   );
 }
