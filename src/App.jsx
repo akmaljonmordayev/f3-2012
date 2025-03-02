@@ -16,6 +16,13 @@ function App() {
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptates.</p>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, voluptates.</p>
 
+      <select name="" id="">
+        <option value="#">uzbe</option>
+        <option value="#">rus</option>
+        <option value="#">toji</option>
+        <option value="#">english</option>
+      </select>
+
     </>
   );
 }
