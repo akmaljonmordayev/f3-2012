@@ -4,7 +4,10 @@ function App() {
   return (
     <>
       <h1>Lorem, ipsum dolor.</h1>
-      <h6>muhamadali + farzona = 💖</h6>
+      <h2>Azamat + Sevara = Love</h2>
+      <h2>Azamat + Sevara = Love</h2>
+      <h5>muhamadali + Maryam = Love</h5>
+      <h6>Muhammadali + Brawlstarts = Love</h6>
     </>
   );
 }
